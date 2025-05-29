@@ -1,5 +1,6 @@
 - Hi, I’m @NDViana
 - I’m interested in becoming a developer and learning more about the field
+- RPI Class of 2027
 - In order to reach me send me an email at nathanielviana@gmail.com
 
 <!---
