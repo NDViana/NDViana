@@ -18,4 +18,4 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?quote=You're%20dereferencing%20a%20null%20pointer!&author=Bret%20Hart&type=horizontal&theme=radical)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Thanks to GPRM for the portfolio help -->
