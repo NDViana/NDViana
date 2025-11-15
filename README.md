@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔧 Currently working on a **Student Hub** project  
+- 🔧 Currently working on a **Trip Expense** project  
 - 🌱 Learning **Spring Boot**  
 - 🤝 Looking to collaborate on **open-source projects**  
 - 🏋️ Fun fact: I love **weightlifting**
